@@ -13,17 +13,15 @@ Hospital Management System is a database project designed using SQL to manage ho
 - Bills: Stores billing records and payment details  
 
 ## SQL Concepts Used
-- DDL (CREATE, ALTER, DROP)  
-- DML (INSERT, UPDATE, DELETE)  
-- Primary Key & Foreign Key  
-- Joins (INNER JOIN)  
-- Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)  
-- GROUP BY  
-- HAVING  
-- Subqueries  
-- ORDER BY  
-- LIMIT  
-- Views
+- Primary Key and Foreign Key constraints for relational database design  
+- INNER JOIN for combining data from multiple related tables  
+- Aggregate Functions (SUM, AVG, COUNT, MIN, MAX) for data analysis and reporting  
+- GROUP BY for grouping records based on specific columns  
+- HAVING clause for filtering grouped results  
+- Subqueries for nested and advanced data retrieval  
+- ORDER BY for sorting query results in ascending or descending order  
+- LIMIT for restricting the number of output records  
+- Views for creating reusable virtual tables for reporting  
 
   ## Author
 Shreya Singh
